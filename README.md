@@ -11,7 +11,7 @@ Este é um projeto que está sendo desenvolvido a partir da Next Leve Week, even
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
- Depois de pronto, contemplará os seguintes itens:
+ O projeto contempla os seguintes itens:
  
  ## Website
  Landing page de apresentação do app e formulário de cadastro
